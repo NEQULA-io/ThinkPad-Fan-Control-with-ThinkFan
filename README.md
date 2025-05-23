@@ -63,7 +63,7 @@ Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gi
     ```
 
 
-For full installation help, see [Autostart](docs/autostart.md) and [Persistent Control](docs/persistent-control.md).
+For full installation help, see [Autostart](Docs/autostart.md) and [Persistent Control](Docs/persistent-control.md).
 
 ## 🔧 Pre-set `config/thinkfan.conf`
 
