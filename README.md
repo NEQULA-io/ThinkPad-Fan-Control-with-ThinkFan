@@ -2,7 +2,7 @@
 
 A clean and comprehensive walkthrough for configuring **`ThinkFan`** on supported ThinkPad models.
 
-Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gives finer thermal management, quieter operation, and greater control. This project documents everything from setup to advanced tweaks.
+Control your **ThinkPad** fan manually and dynamically. This `ThinkFan`-based setup gives finer thermal management, quieter operation, and greater control. This project documents everything from setup to advanced tweaks.
 
 
 ## 💡 Features
