@@ -2,6 +2,6 @@
 
 - Ubuntu/Debian-based OS
 
-`- lm-sensors`, `thinkfan`
+- `lm-sensors`, `thinkfan`
 
 - Access to root/`sudo`
