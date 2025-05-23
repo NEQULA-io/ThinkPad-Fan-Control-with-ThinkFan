@@ -16,4 +16,4 @@ Make ThinkFan start automatically on boot
 
 4. **Optional:**
 
-    Add delays to startup sequence via **systemd** if **ThinkFan** loads too early
+    Add delays to startup sequence via **`systemd`** if **`ThinkFan`** loads too early
