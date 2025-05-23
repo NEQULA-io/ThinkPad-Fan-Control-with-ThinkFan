@@ -71,9 +71,8 @@ Original configuration showing basic syntax, sensor references, and safe fallbac
 
 ## 🔧 Custom `config/thinkfan.conf`
 
-You can simply copy-paste the contents.
-
 Custom config tuned for modern ThinkPads:
+(Note: You can simply copy-paste the contents.)
 
 ```bash
 sensors:
