@@ -22,7 +22,7 @@
 
   ```bash
   cat /sys/module/thinkpad_acpi/parameters/fan_control
-  # Output should be 'Y' for enabled and 'N' for disabled
+  # Output should be 'Y' for enabled and 'N' for not enabled
   ```
 
 - Validate thinkpad_acpi is loaded:
