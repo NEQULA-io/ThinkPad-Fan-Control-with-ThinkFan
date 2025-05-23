@@ -48,7 +48,7 @@ Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gi
     sudo cp config/thinkfan.conf.current /etc/thinkfan.conf
     ```
 
-5. **Enable and re-start `ThinkFan`:**
+5. **Enable and Re-start `ThinkFan`:**
 
     ```bash
     sudo systemctl enable thinkfan
