@@ -1,7 +1,7 @@
-- ThinkPad with thinkpad_acpi support
+- ThinkPad with `thinkpad_acpi` support
 
 - Ubuntu/Debian-based OS
 
-- lm-sensors, thinkfan
+`- lm-sensors`, `thinkfan`
 
-- Access to root/sudo
+- Access to root/`sudo`
