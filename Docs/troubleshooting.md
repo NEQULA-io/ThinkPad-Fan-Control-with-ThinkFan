@@ -15,7 +15,14 @@
 - Check if fan control is enabled:
 
   ```bash
-  cat /proc/acpi/ibm/fan
+  test -r /proc/acpi/ibm/fan && echo "Fan control enabled" || echo "Fan control not enabled"
+  ```
+
+- Alternatively:
+
+  ```bash
+  cat /sys/module/thinkpad_acpi/parameters/fan_control
+  # Output should be 'Y' for enabled and 'N' for disabled
   ```
 
 - Validate thinkpad_acpi is loaded:
@@ -28,4 +35,4 @@
 
 - Always run fan commands as sudo
 
-- Ensure user is in video and lp groups if required
+- Ensure user is in `video` and `lp` groups if required
