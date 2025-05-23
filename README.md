@@ -87,12 +87,12 @@ fans:
   - tpacpi: /proc/acpi/ibm/fan
 
 levels:
-  - [0, 0, 45]                     # Fan off below 45 °C
-  - ["level 1", 42, 50]           # Gentle spin
-  - ["level 3", 48, 60]           # Moderate cooling
-  - ["level 5", 55, 70]           # High cooling
-  - ["level auto", 68, 78]        # BIOS-assisted
-  - ["level 7", 75, 255] # Max speed
+  - [0, 0, 45]              # Fan off below 45 °C
+  - ["level 1", 42, 50]     # Gentle spin
+  - ["level 3", 48, 60]     # Moderate cooling
+  - ["level 5", 55, 70]     # High cooling
+  - ["level auto", 68, 78]  # BIOS-assisted
+  - ["level 7", 75, 255]    # Max speed
 ```
 
 - 🔍 Uses fan levels 0 to 7 (avoids disengaged)
