@@ -25,4 +25,4 @@
 
 - 🌡️ Relies on core temp sensors for thermal management
 
-- 🎚️ Ensure sensors exist in sensors output
+- 🎚️ Ensure sensors exist in `sensors` output
