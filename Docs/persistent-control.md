@@ -1,4 +1,4 @@
-Ensuring fan control survives **`reboot`**
+# Ensuring fan control survives **`reboot`**
 
 1. Add kernel module to **`initramfs`**:
 
