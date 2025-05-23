@@ -20,7 +20,7 @@ Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gi
 
 ## 🚀 Quick Start
 
-1. **Install ThinkFan & sensors:**
+1. **Install `ThinkFan` & sensors:**
 
     ```bash
     sudo apt update
@@ -42,13 +42,13 @@ Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gi
     sudo reboot
     ```
 
-4. **Configure ThinkFan:**
+4. **Configure `ThinkFan`:**
 
     ```bash
     sudo cp config/thinkfan.conf.current /etc/thinkfan.conf
     ```
 
-5. **Enable and start ThinkFan:**
+5. **Enable and start `ThinkFan`:**
 
     ```bash
     sudo systemctl enable thinkfan
@@ -65,11 +65,11 @@ Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gi
 
 For full installation help, see [Autostart](docs/autostart.md) and [Persistent Control](docs/persistent-control.md).
 
-## 🔧 config/thinkfan.conf.original
+## 🔧 Pre-set `config/thinkfan.conf`
 
 Original configuration showing basic syntax, sensor references, and safe fallback values. Useful for reverse engineering or resetting.
 
-## 🔧 config/thinkfan.conf.current
+## 🔧 Custom `config/thinkfan.conf`
 
 Custom config tuned for modern ThinkPads:
 
