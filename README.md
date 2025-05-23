@@ -73,14 +73,14 @@ Original configuration showing basic syntax, sensor references, and safe fallbac
 
 Custom config tuned for modern ThinkPads:
 
-    ```
-    (0, 0, 45)
-    (1, 42, 50)
-    (3, 48, 60)
-    (5, 55, 70)
-    (auto, 68, 78)
-    (7, 75, 255)
-    ```
+```conf
+(0, 0, 45)
+(1, 42, 50)
+(3, 48, 60)
+(5, 55, 70)
+(auto, 68, 78)
+(7, 75, 255)
+```
 
 - 🔍 Uses fan levels 0 to 7 (avoids disengaged)
 
