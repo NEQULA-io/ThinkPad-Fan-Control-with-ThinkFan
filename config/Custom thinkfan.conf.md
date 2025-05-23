@@ -1,4 +1,4 @@
-Custom config tuned for modern ThinkPads (note - You can simply copy-paste the contents.):
+# Custom config tuned for modern ThinkPads (note - You can simply copy-paste the contents.):
 
   ```bash
   sensors:
