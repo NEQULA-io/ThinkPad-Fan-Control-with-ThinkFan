@@ -27,8 +27,3 @@ Custom config tuned for modern ThinkPads:
 - 🌡️ Relies on core temp sensors for thermal management
 
 - 🎚️ Ensure sensors exist in sensors output
-
-
-  ```bash
-  hello
-  ```
