@@ -73,7 +73,7 @@ Control your **ThinkPad** fan manually and dynamically. This `ThinkFan` based se
     ```
 
 
-For full installation help, see [Autostart](Docs/autostart.md) and [Persistent Control](Docs/persistent-control.md).
+For full installation help, see [Autostart](docs/autostart.md) and [Persistent Control](docs/persistent-control.md).
 
 
 ## 🤝 Contribution
