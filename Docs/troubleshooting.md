@@ -3,7 +3,7 @@
 
 ## 🔧 thinkfan.service inactive after reboot
 
-- **Likely systemd service `systemd.service` is not enabled:**
+- **Likely `systemd.service` is not enabled:**
 
   ```bash
   sudo systemctl enable thinkfan
