@@ -73,7 +73,7 @@ Original configuration showing basic syntax, sensor references, and safe fallbac
 
 Custom config tuned for modern ThinkPads:
 
-```conf
+```
 (0, 0, 45)
 (1, 42, 50)
 (3, 48, 60)
