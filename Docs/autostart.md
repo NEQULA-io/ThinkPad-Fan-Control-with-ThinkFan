@@ -6,7 +6,7 @@ Make ThinkFan start automatically on boot
     sudo systemctl enable thinkfan
     ```
 
-3. Confirm **fan_control=1** is applied via **/etc/modprobe.d/thinkfan.conf**
+3. Confirm **fan_control=1** is applied via `**/etc/modprobe.d/thinkfan.conf**`
 
 3. **Check logs:**
 
