@@ -14,7 +14,7 @@
   echo level 7 | sudo tee /proc/acpi/ibm/fan
   ```
 
-- Return to BIOS/`auto` control:
+- Return to `BIOS`/`auto` control:
 
   ```bash
   echo level auto | sudo tee /proc/acpi/ibm/fan
