@@ -48,14 +48,20 @@ Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gi
     sudo cp config/thinkfan.conf.current /etc/thinkfan.conf
     ```
 
-5. **Enable and start `ThinkFan`:**
+5. **Enable and re-start `ThinkFan`:**
 
     ```bash
     sudo systemctl enable thinkfan
+    sudo systemctl restart thinkfan
+    ```
+
+6. **Start `ThinkFan` (Optional):**
+
+    ```bash
     sudo systemctl start thinkfan
     ```
 
-6. **Monitor status:**
+8. **Monitor status:**
 
     ```bash
     sudo systemctl status thinkfan
