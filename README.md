@@ -98,4 +98,4 @@ We welcome community pull requests with:
 
 - Safety improvements and documentation updates
 
-## **Built for performance, silence, and full control.**
+## **Built in Slience for Performance and full control.**
