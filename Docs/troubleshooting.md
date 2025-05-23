@@ -25,7 +25,7 @@
   # Output should be 'Y' for enabled and 'N' for not enabled
   ```
 
-- Validate thinkpad_acpi is loaded:
+- Validate `thinkpad_acpi` is loaded:
 
   ```bash
   lsmod | grep thinkpad
