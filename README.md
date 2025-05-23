@@ -61,9 +61,15 @@ Control your ThinkPad fan manually and dynamically. This ThinkFan-based setup gi
     sudo systemctl start thinkfan
     ```
 
-8. **Monitor status:**
+8. **Check status:**
 
     ```bash
+    sudo systemctl status thinkfan
+    watch -n 1 cat /proc/acpi/ibm/fan
+    ```
+9. **Monitor `ThinkFan` in Real-Time:**
+
+   ```bash
     sudo systemctl status thinkfan
     watch -n 1 cat /proc/acpi/ibm/fan
     ```
