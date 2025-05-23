@@ -1,4 +1,4 @@
-Make ThinkFan start automatically on boot
+Make `ThinkFan` start automatically on boot
 
 1. **Enable service:**
 
