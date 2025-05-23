@@ -1,7 +1,7 @@
 # Common Issues & Fixes
 
 
-## 🔧 thinkfan.service inactive after reboot
+## 🔧 `thinkfan.service` inactive after reboot
 
 - **Likely `systemd.service` is not enabled:**
 
