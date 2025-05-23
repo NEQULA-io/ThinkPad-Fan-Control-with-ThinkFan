@@ -21,7 +21,7 @@
     - ["level 7", 75, 255]    # Max speed
   ```
 
-- 🔍 Uses fan levels 0 to 7 (avoids disengaged)
+- 🔍 Uses fan levels 0 to 7 (avoids `disengaged`)
 
 - 🌡️ Relies on core temp sensors for thermal management
 
