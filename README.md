@@ -21,7 +21,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<p align="center">Developed by ```Suyash Kumar``` // <a href="https://github.com/NEQULA-io">NEQULA</a></p>
+<p align="center">Developed by Suyash Kumar // <a href="https://github.com/NEQULA-io">NEQULA</a></p>
 
 <p align="center">
   <a href="#-🅣-thinkpad-fan-control-with-thinkfan">Overview</a> |
