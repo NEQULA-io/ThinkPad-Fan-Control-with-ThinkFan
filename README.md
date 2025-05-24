@@ -22,6 +22,16 @@
 ```
 <p align="center"><b>Developed by Suyash Kumar // NEQULA.</b></p>
 
+<p align="center">
+  <a href="#🔴 🅣 ThinkPad Fan Control with ThinkFan">🔴 🅣 ThinkPad Fan Control with ThinkFan</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Usage</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contributing">Contributing</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#upcoming">Upcoming</a>
+</p>
+
 # 🔴 🅣 ThinkPad Fan Control with ThinkFan
 
 A clean and comprehensive walkthrough for configuring **`ThinkFan`** on supported ThinkPad models.
