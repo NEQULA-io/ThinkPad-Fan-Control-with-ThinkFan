@@ -110,7 +110,7 @@ For full installation help, see [Autostart](docs/autostart.md) and [Persistent C
 
 ## 📜 License
 
-See [```MIT LICENSE```](LICENSE) for details.
+See [```MIT LICENSE```](LICENSE) for details.🔭 Track the Cosmos. Unveil Orbital Insights.
 
 
 ## 🤝 Contribution
@@ -123,4 +123,4 @@ We welcome community pull requests with:
 
 - Safety improvements and documentation updates
 
-## 🎛 **Built in Slience for Performance and Full-Control.**
+# 🎛 **Built in Slience for Performance and Full-Control.**
