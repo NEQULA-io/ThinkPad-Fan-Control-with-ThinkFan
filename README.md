@@ -21,11 +21,11 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 <p align="center">
-  <a href="#features">✨ Features</a> |
-  <a href="#quick-start">🚀 Quick Start</a> |
-  <a href="#installation">⚙️ Installation</a> |
-  <a href="#usage">💡 Usage</a> |
-  <a href="#contributing">🤝 Contributing</a>
+<a href="#features">Features</a> |
+<a href="#quick-start">Quick Start</a> |
+<a href="#installation">Installation</a> |
+<a href="#usage">Usage</a> |
+<a href="#contributing">Contributing</a>
 </p>
 
 # 🔴 🅣 ThinkPad Fan Control with ThinkFan
