@@ -20,16 +20,12 @@
    ██║   ██║  ██║██║██║ ╚████║██║  ██╗██║     ██║  ██║██║ ╚████║
    ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
-<p align="center"><b>Developed by Suyash Kumar // NEQULA.</b></p>
-🔴 🅣 ThinkPad Fan Control with ThinkFan
 <p align="center">
-  <a href="#ThinkPad Fan Control with ThinkFan">🔴 🅣 ThinkPad Fan Control with ThinkFan</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💡 Features">💡 Features</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing">Contributing</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#upcoming">Upcoming</a>
+  <a href="#features">✨ Features</a> |
+  <a href="#quick-start">🚀 Quick Start</a> |
+  <a href="#installation">⚙️ Installation</a> |
+  <a href="#usage">💡 Usage</a> |
+  <a href="#contributing">🤝 Contributing</a>
 </p>
 
 # 🔴 🅣 ThinkPad Fan Control with ThinkFan
