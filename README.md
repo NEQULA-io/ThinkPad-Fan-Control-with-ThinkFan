@@ -30,7 +30,7 @@
   <a href="#-contribution">🤝 Contribution</a>
 </p>
 
-# <h1 align="center">🔴 🅣 ThinkPad Fan Control with ThinkFan</h1>
+# <p align="center">🔴 🅣 ThinkPad Fan Control with ThinkFan</p>
 
 A clean and comprehensive walkthrough for configuring **`ThinkFan`** on supported ThinkPad models.
 
