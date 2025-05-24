@@ -21,11 +21,11 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 <p align="center"><b>Developed by Suyash Kumar // NEQULA.</b></p>
-
+🔴 🅣 ThinkPad Fan Control with ThinkFan
 <p align="center">
   <a href="#🔴 🅣 ThinkPad Fan Control with ThinkFan">🔴 🅣 ThinkPad Fan Control with ThinkFan</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#usage">Usage</a>
+  <a href="#💡 Features">💡 Features</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contributing">Contributing</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
